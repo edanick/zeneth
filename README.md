@@ -34,7 +34,11 @@ code --install-extension Edanick.theme-zeneth
 
 ## Screenshots
 
-*Add screenshots here to showcase your theme in action*
+### Python Example
+![Python Example](https://raw.githubusercontent.com/edanick/zeneth/refs/heads/main/screenshots/python%20example.png)
+
+### JavaScript Example
+![JavaScript Example](https://raw.githubusercontent.com/edanick/zeneth/refs/heads/main/screenshots/javascript%20example.png)
 
 ## Contributing
 
