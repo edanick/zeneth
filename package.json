@@ -1,0 +1,28 @@
+{
+    "name": "theme-zeneth",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "Edanick",
+    "license": "GPL-3.0-only",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "Zeneth",
+                "label": "%themeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zeneth-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edanick/zeneth.git"
+    }
+}
