@@ -3,7 +3,7 @@
     "displayName": "%displayName%",
     "description": "%description%",
     "version": "1.0.0",
-    "publisher": "Edanick",
+    "publisher": "edan-m",
     "license": "GPL-3.0-only",
     "engines": {
         "vscode": "*"
