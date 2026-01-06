@@ -4,7 +4,7 @@ A clean, minimal VSCode theme with almost no borders for a distraction-free codi
 
 ![Zeneth Theme Preview](https://img.shields.io/badge/VSCode-Theme-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-GPL--3.0--only-green?style=flat-square)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.1-orange?style=flat-square)
 
 ## Features
 
@@ -23,7 +23,7 @@ A clean, minimal VSCode theme with almost no borders for a distraction-free codi
 You can also install the theme directly from the marketplace:
 
 ```bash
-code --install-extension Edanick.theme-zeneth
+code --install-extension edan-m.theme-zeneth
 ```
 
 ## Activation
